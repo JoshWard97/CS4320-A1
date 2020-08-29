@@ -123,7 +123,10 @@ int main( void )
 	printf("\n\n");
 	taezkvSentence1();
 	printf("\n\n");
-
+	jawgrdsen1();
+	printf("\n\n");
+	jawgrdsen2();
+	printf("\n\n");
 	// DO NOT ADD AFTER THIS COMMENT
 	// Bens sentence should be last.
 	bensSentence_FINAL();
