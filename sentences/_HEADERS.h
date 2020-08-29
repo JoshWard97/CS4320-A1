@@ -29,11 +29,17 @@ int dtanz8Sentence2();
 int hkg8bSentence1();
 int hkg8bSentence_FINAL();
 
+int hcntbSentence1();
+int hcntbSentence2();
+
 int pdokdfSentence1();
 int pdokdfSentence2();
 
 int rysgpd1();
 int rysgpd2();
+
+int ghstgfSentence1();
+int ghstgfSentence2();
 
 int partbrSentence1();
 int partbrSentence2();
@@ -50,3 +56,28 @@ int mbb5ymSentence2();
 int wld9bSentence1();
 int wld9bSentence2();
 
+int sawgzqSentence1();
+int sawgzqSentence2();
+
+int aaa8dr2();
+int aaa8dr3();
+
+
+
+int jkmx5vSentence1();
+int jkmx5vSentence_FINAL();
+
+int conradSentence1();
+int conradSentence2();
+
+int malkrcSentence1();
+int malkrcSentence2();
+
+int mjwcbcSentence1();
+int mjwcbcSentence2();
+
+int taezkvSentence1();
+int taezkvSentence2();
+
+int jawgrdsen1();
+int jawgrdsen2();
